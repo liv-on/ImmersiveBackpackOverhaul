@@ -2,8 +2,8 @@
   {
     "file": "vintagekinematics:itemtypes/reinforcedbackpack.json",
     "op": "replace",
-    "path": "/attributes/backpackByType/*-normal/quantitySlots",
-    "value": 20,
+    "path": "/attributes/backpack/quantitySlots",
+    "value": 24,
     "dependsOn": [
       {
         "modid": "vintagekinematics"
