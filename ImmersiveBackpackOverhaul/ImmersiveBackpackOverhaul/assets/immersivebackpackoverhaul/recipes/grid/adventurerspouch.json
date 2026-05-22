@@ -1,5 +1,5 @@
 {
-  "ingredientPattern": "LCL,C_C,LNL",
+  "ingredientPattern": "LCL,LCL,_N_",
   "requiresTrait": "clothier",
   "ingredients": {
     "L": { "type": "item", "code": "game:leather-*-plain" },

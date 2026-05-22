@@ -3,10 +3,10 @@
     "modid": "immersivebackpackoverhaul",
     "name": "ImmersiveBackpackOverhaul",
     "authors": [
-        "Livon"
+        "livon"
     ],
     "description": "Gates the bag equip slots to ensure that the player is wearing one backpack a time, adds some pouches for variety and to fill in the former backpack slots.",
-    "version": "0.6.2",
+    "version": "0.6.3",
     "dependencies": {
         "game": ""
     }

@@ -100,7 +100,7 @@
     },
     "backpack": {
       "quantitySlots": 4,
-      "storageFlags": 128,
+      "storageFlags": 64,
       "slotBgColor": "#edc009"
     }
   }

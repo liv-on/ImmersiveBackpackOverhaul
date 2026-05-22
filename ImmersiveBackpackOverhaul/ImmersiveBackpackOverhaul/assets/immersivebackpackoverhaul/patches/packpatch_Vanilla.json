@@ -1,96 +1,96 @@
 [
-  {
-    "file": "game:itemtypes/wearable/bag/handbasket.json",
-    "op": "addMerge",
-    "path": "/attributes",
-    "value": {
-      "iboBagSize": "bagmedium"
+    {
+        "file": "game:itemtypes/wearable/bag/handbasket.json",
+        "op": "replace",
+        "path": "/attributes/backpack/quantitySlots",
+        "value": 4
+    },
+    {
+        "file": "game:itemtypes/wearable/bag/handbasket.json",
+        "op": "addMerge",
+        "path": "/attributes",
+        "value": {
+            "iboBagSize": "bagmedium"
+        }
+    },
+    {
+        "file": "game:itemtypes/wearable/bag/linensack.json",
+        "op": "replace",
+        "path": "/attributes/backpack/quantitySlots",
+        "value": 6
+    },
+    {
+        "file": "game:itemtypes/wearable/bag/linensack.json",
+        "op": "addMerge",
+        "path": "/attributes",
+        "value": {
+            "iboBagSize": "bagmedium"
+        }
+    },
+    {
+        "file": "game:itemtypes/wearable/bag/miningbag.json",
+        "op": "replace",
+        "path": "/attributes/backpack/quantitySlots",
+        "value": 10
+    },
+    {
+        "file": "game:itemtypes/wearable/bag/miningbag.json",
+        "op": "addMerge",
+        "path": "/attributes",
+        "value": {
+            "iboBagSize": "bagmedium"
+        }
+    },
+    {
+        "file": "game:itemtypes/wearable/bag/miningbagsturdy.json",
+        "op": "replace",
+        "path": "/attributes/backpack/quantitySlots",
+        "value": 16
+    },
+    {
+        "file": "game:itemtypes/wearable/bag/miningbagsturdy.json",
+        "op": "addMerge",
+        "path": "/attributes",
+        "value": {
+            "iboBagSize": "bagmedium"
+        }
+    },
+    {
+        "file": "game:itemtypes/wearable/bag/quiver.json",
+        "op": "replace",
+        "path": "/attributes/backpack/quantitySlots",
+        "value": 8
+    },
+    {
+        "file": "game:itemtypes/wearable/bag/quiver.json",
+        "op": "addMerge",
+        "path": "/attributes",
+        "value": {
+            "iboBagSize": "bagmedium"
+        }
+    },
+    {
+        "file": "game:itemtypes/wearable/bag/hunterbackpack.json",
+        "op": "replace",
+        "path": "/attributes/backpack/quantitySlots",
+        "value": 8
+    },
+    {
+        "file": "game:itemtypes/wearable/bag/backpack.json",
+        "op": "replace",
+        "path": "/attributes/backpackByType/*-normal/quantitySlots",
+        "value": 10
+    },
+    {
+        "file": "game:itemtypes/wearable/bag/backpack.json",
+        "op": "replace",
+        "path": "/attributes/backpackByType/*-sturdy/quantitySlots",
+        "value": 14
+    },
+    {
+        "file": "game:itemtypes/wearable/bag/glider.json",
+        "op": "replace",
+        "path": "/attributes/backpack/quantitySlots",
+        "value": 2
     }
-  },
-  {
-    "file": "game:itemtypes/wearable/bag/linensack.json",
-    "op": "addMerge",
-    "path": "/attributes",
-    "value": {
-      "iboBagSize": "bagmedium"
-    }
-  },
-  {
-    "file": "game:itemtypes/wearable/bag/miningbag.json",
-    "op": "addMerge",
-    "path": "/attributes",
-    "value": {
-      "iboBagSize": "bagmedium"
-    }
-  },
-  {
-    "file": "game:itemtypes/wearable/bag/miningbagsturdy.json",
-    "op": "addMerge",
-    "path": "/attributes",
-    "value": {
-      "iboBagSize": "bagmedium"
-    }
-  },
-  {
-    "file": "game:itemtypes/wearable/bag/quiver.json",
-    "op": "addMerge",
-    "path": "/attributes",
-    "value": {
-      "iboBagSize": "bagmedium"
-    }
-  },
-  {
-    "file": "game:itemtypes/wearable/bag/handbasket.json",
-    "op": "replace",
-    "path": "/attributes/backpack/quantitySlots",
-    "value": 6
-  },
-  {
-    "file": "game:itemtypes/wearable/bag/hunterbackpack.json",
-    "op": "replace",
-    "path": "/attributes/backpack/quantitySlots",
-    "value": 8
-  },
-  {
-    "file": "game:itemtypes/wearable/bag/linensack.json",
-    "op": "replace",
-    "path": "/attributes/backpack/quantitySlots",
-    "value": 10
-  },
-  {
-    "file": "game:itemtypes/wearable/bag/backpack.json",
-    "op": "replace",
-    "path": "/attributes/backpackByType/*-normal/quantitySlots",
-    "value": 12
-  },
-  {
-    "file": "game:itemtypes/wearable/bag/backpack.json",
-    "op": "replace",
-    "path": "/attributes/backpackByType/*-sturdy/quantitySlots",
-    "value": 16
-  },
-  {
-    "file": "game:itemtypes/wearable/bag/miningbag.json",
-    "op": "replace",
-    "path": "/attributes/backpack/quantitySlots",
-    "value": 14
-  },
-  {
-    "file": "game:itemtypes/wearable/bag/miningbagsturdy.json",
-    "op": "replace",
-    "path": "/attributes/backpack/quantitySlots",
-    "value": 28
-  },
-  {
-    "file": "game:itemtypes/wearable/bag/quiver.json",
-    "op": "replace",
-    "path": "/attributes/backpack/quantitySlots",
-    "value": 20
-  },
-  {
-    "file": "game:itemtypes/wearable/bag/glider.json",
-    "op": "replace",
-    "path": "/attributes/backpack/quantitySlots",
-    "value": 4
-  }
 ]

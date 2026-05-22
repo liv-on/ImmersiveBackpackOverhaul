@@ -1,10 +1,13 @@
 {
-  "ingredientPattern": "_H_,H_H,_F_",
+  "ingredientPattern": "F_,S_,",
   "ingredients": {
-    "H": { "type": "item", "code": "game:hide-raw-small" },
-    "F": { "type": "item", "code": "game:flaxfibers" }
-  },
-  "width": 3,
-  "height": 3,
+    "S": { "type": "item", "code": "game:hide-pelt-*", "tags": [ "size-small" ] },
+    "F": {
+        "type": "item",
+        "code": "game:flaxtwine"
+    }
+    },
+  "width": 2,
+  "height": 2,
   "output": { "type": "item", "code": "immersivebackpackoverhaul:coinpurse" }
 }
