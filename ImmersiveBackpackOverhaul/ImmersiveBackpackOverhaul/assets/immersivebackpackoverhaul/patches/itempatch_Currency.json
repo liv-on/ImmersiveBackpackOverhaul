@@ -1,0 +1,17 @@
+[
+    {
+        "file": "game:itemtypes/resource/gear.json",
+        "op": "replace",
+        "path": "/storageFlagsByType",
+        "value": {
+            "*-rusty": 65,
+            "*-temporal": 321
+        }
+    },
+    {
+        "file": "game:itemtypes/resource/gem-rough.json",
+        "op": "replace",
+        "path": "/storageFlags",
+        "value": 13
+    }
+]
