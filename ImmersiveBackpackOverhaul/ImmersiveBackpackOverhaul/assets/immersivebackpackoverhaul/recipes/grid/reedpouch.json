@@ -2,7 +2,10 @@
   "ingredientPattern": "RRR,R_R,_F_",
   "ingredients": {
     "R": { "type": "item", "code": "game:*cattail*tops" },
-    "F": { "type": "item", "code": "game:flaxfibers" }
+    "F": {
+        "type": "item",
+        "code": "game:rope"
+    }
   },
   "width": 3,
   "height": 3,
