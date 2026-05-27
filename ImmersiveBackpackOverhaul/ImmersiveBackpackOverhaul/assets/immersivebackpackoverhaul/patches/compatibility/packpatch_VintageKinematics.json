@@ -11,7 +11,7 @@
     ]
   },
   {
-    "file": "vintagekinematics:itemtypes/backpack-flywheel.json",
+    "file": "vintagekinematics:itemtypes/backpackflywheel.json",
     "op": "replace",
     "path": "/attributes/backpack/quantitySlots",
     "value": 18,
