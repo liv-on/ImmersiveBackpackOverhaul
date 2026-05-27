@@ -9,5 +9,16 @@
         "modid": "vintagekinematics"
       }
     ]
+  },
+  {
+    "file": "vintagekinematics:itemtypes/backpackflywheel.json",
+    "op": "replace",
+    "path": "/attributes/backpack/quantitySlots",
+    "value": 18,
+    "dependsOn": [
+      {
+        "modid": "vintagekinematics"
+      }
+    ]
   }
 ]
