@@ -1,0 +1,46 @@
+[
+  {
+    "file": "butchering:itemtypes/tool/butcherybag.json",
+    "op": "replace",
+    "path": "/attributes/backpackByType/butcherybag-primitive/quantitySlots",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      }
+    ]
+  },
+    {
+    "file": "butchering:itemtypes/tool/butcherybag.json",
+    "op": "replace",
+    "path": "/attributes/backpackByType/butcherybag-standard/quantitySlots",
+    "value": 8,
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      }
+    ]
+  },
+    {
+    "file": "butchering:itemtypes/tool/butcherybag.json",
+    "op": "replace",
+    "path": "/attributes/backpackByType/butcherybag-leather/quantitySlots",
+    "value": 10,
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      }
+    ]
+  },
+    {
+    "file": "butchering:itemtypes/tool/butcherybag.json",
+    "op": "replace",
+    "path": "/attributes/backpackByType/butcherybag-sturdyleather/quantitySlots",
+    "value": 12,
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      }
+    ]
+  }
+]
