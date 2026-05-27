@@ -1,0 +1,1403 @@
+[
+  {
+    "file": "butchering:itemtypes/butchercreatures/bear.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadbear-*-black-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/bear.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadbear-*-brown-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/bear.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadbear-*-panda-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/bear.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadbear-*-polar-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/bear.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadbear-*-sun-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/deer.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deaddeer-male-adult-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/deer.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deaddeer-male-adultlarge-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/gazelle.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadgazelle-male-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/gazelle.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadgazelle-female-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/goat.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadgoat-male-adult-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/goat.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadgoat-male-adultlarge-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/hyena.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadhyena-male-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/hyena.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadhyena-female-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/moose.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadmoose-male-moose-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/pig.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadpig-male-eurasian-normal-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/pig.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadpig-male-eurasian-elder-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/pig.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadpig-male-redriver-normal-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/pig.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadpig-male-warthog-normal-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/pig.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadpig-female-eurasian-normal-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/pig.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadpig-female-eurasian-elder-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/pig.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadpig-female-redriver-normal-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/pig.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadpig-female-warthog-normal-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/raccoon.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadraccoon-male-*",
+    "value": {
+      "iboBagSize": "bagsmall"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/sheep.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadsheep-male-bighorn-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/sheep.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadsheep-male-mouflon-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/sheep.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadsheep-female-bighorn-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/sheep.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadsheep-female-mouflon-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/wolf.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadwolf-male-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/wolf.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadwolf-female-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/bovinae/bovinae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadbovinae-male-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "bovinae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/bovinae/bovinae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadbovinae-female-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "bovinae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/caninae/caninae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadcaninae-male-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/caninae/caninae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadcaninae-female-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/capreolinae/alceini.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadalceini-male-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/capreolinae/alceini.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadalceini-female-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/capreolinae/capreolini.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadcapreolini-male-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/capreolinae/capreolini.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadcapreolini-female-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/capreolinae/odocoileini.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadodocoileini-male-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/capreolinae/odocoileini.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadodocoileini-female-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/casuariidae/casuariidae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadcasuariidae-male-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "casuariidae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/casuariidae/casuariidae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadcasuariidae-female-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "casuariidae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/casuariidae/cereopsisnovaehollandiae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadcereopsisnovaehollandiae-male-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "casuariidae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/casuariidae/cereopsisnovaehollandiae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadcereopsisnovaehollandiae-female-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "casuariidae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/casuariidae/dromornithidae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deaddromornithidae-male-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "casuariidae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/casuariidae/dromornithidae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deaddromornithidae-female-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "casuariidae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/casuariidae/rallidae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadrallidae-male-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "casuariidae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/casuariidae/rallidae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadrallidae-female-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "casuariidae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/cervinae/cervini.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadcervini-male-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "cervinae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/cervinae/cervini.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadcervini-female-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "cervinae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/dinornithidae/acanthisittidae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadacanthisittidae-male-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "dinornithidae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/dinornithidae/acanthisittidae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadacanthisittidae-female-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "dinornithidae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/dinornithidae/aegothelidae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadaegothelidae-male-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "dinornithidae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/dinornithidae/aegothelidae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadaegothelidae-female-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "dinornithidae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/dinornithidae/anatidae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadanatidae-male-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "dinornithidae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/dinornithidae/anatidae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadanatidae-female-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "dinornithidae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/dinornithidae/apterygidae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadapterygidae-male-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "dinornithidae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/dinornithidae/apterygidae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadapterygidae-female-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "dinornithidae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/dinornithidae/aptornithidae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadaptornithidae-male-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "dinornithidae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/dinornithidae/aptornithidae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadaptornithidae-female-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "dinornithidae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/dinornithidae/dinornithidae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deaddinornithidae-male-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "dinornithidae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/dinornithidae/dinornithidae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deaddinornithidae-female-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "dinornithidae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/dinornithidae/emeidae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deademeidae-male-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "dinornithidae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/dinornithidae/emeidae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deademeidae-female-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "dinornithidae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/dinornithidae/megalapterygidae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadmegalapterygidae-male-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "dinornithidae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/dinornithidae/megalapterygidae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadmegalapterygidae-female-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "dinornithidae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/dinornithidae/rallidae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadrallidae-male-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "dinornithidae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/dinornithidae/rallidae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadrallidae-female-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "dinornithidae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/dinornithidae/strigopidae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadstrigopidae-male-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "dinornithidae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/dinornithidae/strigopidae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadstrigopidae-female-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "dinornithidae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/elephantidae/elephantidae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadelephantidae-male-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/elephantidae/elephantidae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadelephantidae-female-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/equushorses/equushorse.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadequushorse-male-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "equushorses"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/equushorses/equushorse.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadequushorse-female-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "equushorses"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/feverstonehorses/feverstonehorse.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadfeverstonehorse-male-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "feverstonehorses"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/feverstonehorses/feverstonehorse.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadfeverstonehorse-female-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "feverstonehorses"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/lichen/gemsbok.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadgemsbok-male-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "lichen"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/lichen/gemsbok.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadgemsbok-female-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "lichen"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/lichen/whitehart.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadwhitehart-male-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "lichen"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/lichen/whitehart.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadwhitehart-female-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "lichen"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/machairodontinae/machairodontinae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadmachairodontinae-male-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "machairodontinae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/machairodontinae/machairodontinae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadmachairodontinae-female-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "machairodontinae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/manidae/manidae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadmanidae-male-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "manidae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/manidae/manidae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadmanidae-female-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "manidae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/medievalexpansion/aurochs.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadaurochs-male-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "medievalexpansion"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/medievalexpansion/aurochs.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadaurochs-female-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "medievalexpansion"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/pantherinae/neofelis.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadneofelis-male-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "pantherinae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/pantherinae/neofelis.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadneofelis-female-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "pantherinae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/pantherinae/panthera.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadpanthera-male-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "pantherinae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/pantherinae/panthera.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadpanthera-female-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "pantherinae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/rhinocerotidae/rhinocerotidae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadrhinocerotidae-male-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "rhinocerotidae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/rhinocerotidae/rhinocerotidae.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadrhinocerotidae-female-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "rhinocerotidae"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/sirenia/sirenia.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadsirenia-male-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "sirenia"
+      }
+    ]
+  },
+  {
+    "file": "butchering:itemtypes/butchercreatures/sirenia/sirenia.json",
+    "op": "addMerge",
+    "path": "/attributesByType/deadsirenia-female-1-*",
+    "value": {
+      "iboBagSize": "bagmedium"
+    },
+    "dependsOn": [
+      {
+        "modid": "butchering"
+      },
+      {
+        "modid": "sirenia"
+      }
+    ]
+  }
+]
