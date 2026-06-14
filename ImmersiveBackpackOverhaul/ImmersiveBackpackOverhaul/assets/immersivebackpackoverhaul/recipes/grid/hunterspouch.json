@@ -1,10 +1,10 @@
 {
-  "ingredientPattern": "L_L,LBL,_T_",
+  "ingredientPattern": "_R_,PBP,_P_",
   "requiresTrait": "resourceful",
   "ingredients": {
-    "L": { "type": "item", "code": "game:leather-*-plain" },
+    "P": { "type": "item", "code": "game:hide-pelt-*", "tags": [ "size-small" ] },
     "B": { "type": "item", "code": "game:bone" },
-    "T": { "type": "item", "code": "game:flaxtwine" }
+    "R": { "type": "item", "code": "game:rope" }
   },
   "width": 3,
   "height": 3,

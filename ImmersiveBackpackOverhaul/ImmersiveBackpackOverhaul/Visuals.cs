@@ -36,10 +36,10 @@ namespace ImmersiveBackpackOverhaul
 
         private static readonly string[] IconByEquipIndex =
         {
-            "belt",
-            "belt",
-            "basket",
             "cape",
+            "basket",
+            "belt",
+            "belt",
         };
 
         private static void ApplyBackpackIconsToPlayer(IPlayer player)
@@ -100,11 +100,11 @@ namespace ImmersiveBackpackOverhaul
             switch (size)
             {
                 case "bagsmall":
-                    return "Can be worn on all slots.";
+                    return "Can be worn on slots 3 and 4.";
                 case "bagmedium":
-                    return "Can be worn on slot 3 and 4.";
+                    return "Can be worn on slots 1 and 2.";
                 default:
-                    return "Can be worn on the back.";
+                    return "Can be worn on slot 1.";
             }
         }
 

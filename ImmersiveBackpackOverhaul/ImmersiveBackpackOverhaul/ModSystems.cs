@@ -33,10 +33,10 @@ namespace ImmersiveBackpackOverhaul
                 if (!IsAllowedInEquipSlot(equipIndex, sourceSlot?.Itemstack))
                 {
                     __result = false;
-                    return false; 
+                    return false;
                 }
 
-                return true; 
+                return true;
             }
         }
 
@@ -57,12 +57,33 @@ namespace ImmersiveBackpackOverhaul
             }
         }
 
-        private static readonly string[][] AllowedSizes =
+        private readonly struct SlotRule
         {
-        new[] { "bagsmall" },
-        new[] { "bagsmall" },
-        new[] { "bagsmall", "bagmedium" },
-        Array.Empty<string>()
+            private readonly string[] sizes;
+            private readonly bool deny;
+
+            private SlotRule(string[] sizes, bool deny)
+            {
+                this.sizes = sizes;
+                this.deny = deny;
+            }
+
+            public static SlotRule AllowOnly(params string[] sizes) => new SlotRule(sizes, false);
+            public static SlotRule AllowExcept(params string[] sizes) => new SlotRule(sizes, true);
+
+            public bool Accepts(string? size)
+            {
+                bool inSet = size != null && Array.IndexOf(sizes, size) >= 0;
+                return deny ? !inSet : inSet;
+            }
+        }
+
+        private static readonly SlotRule[] SlotRules =
+        {
+            SlotRule.AllowExcept("bagsmall"),
+            SlotRule.AllowOnly("bagmedium"),
+            SlotRule.AllowOnly("bagsmall"),
+            SlotRule.AllowOnly("bagsmall"),
         };
 
         private const string BagSizeAttr = "iboBagSize";
@@ -101,20 +122,8 @@ namespace ImmersiveBackpackOverhaul
 
         private static bool IsAllowedInEquipSlot(int equipIndex, ItemStack? incomingStack)
         {
-            if (equipIndex < 0 || equipIndex >= AllowedSizes.Length) return true;
-
-            var allowed = AllowedSizes[equipIndex];
-
-            if (allowed.Length == 0) return true;
-
-            var size = GetBagSize(incomingStack);
-            if (size == null) return false;
-
-            for (int i = 0; i < allowed.Length; i++)
-            {
-                if (allowed[i] == size) return true;
-            }
-            return false;
+            if (equipIndex < 0 || equipIndex >= SlotRules.Length) return true;
+            return SlotRules[equipIndex].Accepts(GetBagSize(incomingStack));
         }
 
     }

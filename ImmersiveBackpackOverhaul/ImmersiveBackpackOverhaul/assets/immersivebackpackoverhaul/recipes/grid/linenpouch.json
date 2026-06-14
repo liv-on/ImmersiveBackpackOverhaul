@@ -1,10 +1,19 @@
 {
-  "ingredientPattern": "_L_,L_L,_T_",
-  "ingredients": {
-    "L": { "type": "item", "code": "game:cloth-plain" },
-    "T": { "type": "item", "code": "game:flaxtwine" }
-  },
-  "width": 3,
-  "height": 3,
-  "output": { "type": "item", "code": "immersivebackpackoverhaul:linenpouch" }
+    "ingredientPattern": "_R_,TTT",
+    "ingredients": {
+        "T": {
+            "type": "item",
+            "code": "game:flaxtwine"
+        },
+        "R": {
+            "type": "item",
+            "code": "game:rope"
+        }
+    },
+    "width": 3,
+    "height": 2,
+    "output": {
+        "type": "item",
+        "code": "immersivebackpackoverhaul:linenpouch"
+    }
 }

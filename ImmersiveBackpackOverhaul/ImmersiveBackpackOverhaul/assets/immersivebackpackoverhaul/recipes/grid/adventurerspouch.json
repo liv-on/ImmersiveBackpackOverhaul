@@ -1,10 +1,10 @@
 {
-  "ingredientPattern": "LCL,LCL,_N_",
+  "ingredientPattern": "_N_,LCL,LLL",
   "requiresTrait": "clothier",
   "ingredients": {
-    "L": { "type": "item", "code": "game:leather-*-plain" },
+    "L": { "type": "item", "code": "game:leather-sturdy-plain" },
     "C": { "type": "item", "code": "game:cloth-plain" },
-    "N": { "type": "item", "code": "game:metalnailsandstrips-tinbronze" }
+    "N": { "type": "item", "code": "game:metalnailsandstrips-iron" }
   },
   "width": 3,
   "height": 3,

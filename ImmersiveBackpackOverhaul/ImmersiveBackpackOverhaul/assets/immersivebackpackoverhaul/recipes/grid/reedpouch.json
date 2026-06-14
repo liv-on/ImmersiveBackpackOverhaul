@@ -1,13 +1,19 @@
 {
-  "ingredientPattern": "RRR,R_R,_F_",
-  "ingredients": {
-    "R": { "type": "item", "code": "game:*cattail*tops" },
-    "F": {
+    "ingredientPattern": "_R_,C_C,CCC",
+    "ingredients": {
+        "C": {
+            "type": "item",
+            "code": "game:*cattail*tops"
+        },
+        "R": {
+            "type": "item",
+            "code": "game:rope"
+        }
+    },
+    "width": 3,
+    "height": 3,
+    "output": {
         "type": "item",
-        "code": "game:rope"
+        "code": "immersivebackpackoverhaul:reedpouch"
     }
-  },
-  "width": 3,
-  "height": 3,
-  "output": { "type": "item", "code": "immersivebackpackoverhaul:reedpouch" }
 }
